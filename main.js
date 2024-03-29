@@ -1,6 +1,5 @@
 const timesTamp = '1711729406491'
 const apiPublicKey = '38740177b8850c68684a85f12ddcb6d3';
-const apiPrivateKey = 'f1c135302742bd67ef28fb17bec918d82ba62822';
 const mdmHash = 'e976eb78466d9568aee6a20e98a1fde1';
 
 const searchInput = document.querySelector('#searchInput');
